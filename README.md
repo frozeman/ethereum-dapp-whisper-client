@@ -1,3 +1,5 @@
+*Note: This repo is deprecated please use the following https://github.com/ethereum/meteor-dapp-whisper-chat-client*
+
 # ethereum-dapp-whisper-client
 
 ## Development
